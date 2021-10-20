@@ -15,7 +15,7 @@ Test Tools: Selenium Web Driver, Nunit Runner, Chrome Driver(version="94.0.4606.
 
 Test Project: www.kupujemprodajem.com
 
-Test Description: "Search field("Samsung")", "Filter them by prices(Hight). ", "Print 5 resalts high price more than 1000 euro and 5 results"
+Test Description: "Search field("Samsung")", "Filter them by prices(Hight). ", "Print 5 resalts high price more than 1000 euro"
 
 Test Run: Build Solution and Test Explorer => Run All Tests
 
